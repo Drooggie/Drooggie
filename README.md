@@ -10,7 +10,7 @@
   <a href='https://www.instagram.com/w1nnn1e/'>
     <img src='https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white' />
   </a>
-  <a href='wa.link/ugx9jw'>
+  <a href='https://api.whatsapp.com/send?phone=77077493640'>
     <img src='https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white' />
   </a>
 </div>
