@@ -38,5 +38,5 @@
 
 ### Certifications
 <div align='center'>
-  <img src='https://drooggie.github.io/Screenshot_2.png' weight='300' />
+  <a href='https://www.freecodecamp.org/certification/Drooggie/responsive-web-design'><img src='https://drooggie.github.io/Screenshot_2.png' width='400' /></a>
 </div>
