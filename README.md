@@ -35,3 +35,8 @@
 #### Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drooggie&theme=radical)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drooggie&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Certifications
+<div align='center'>
+  <img src='https://drooggie.github.io/Screenshot_2.png' weight='300' />
+</div>
